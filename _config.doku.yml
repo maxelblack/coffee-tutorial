@@ -1,0 +1,62 @@
+# Favicon
+favicon: 'theme-doku/img/favicon.ico'
+
+# --------------------
+# Navbar
+# --------------------
+navbar:
+  # The URL of Logo which will be shown at navbar
+  logo: 'theme-doku/img/logo.png'
+  # If you Logo has no text, you can add title next to your logo.
+  # Leave it as an empty string if you don't have
+  logo_text: '咖啡入门指南'
+  links:
+    zh-CN:
+      # - logo: # The font-awesome class name of the logo. Leave it blank if you don't need logo for this link
+      #  text: '使用文档' # The logo text
+      #  url: '/' # The url
+      - logo: 
+        text: 主页
+        url: 'https://home.maxelbk.eu.org'
+      - logo: 
+        text: 博客
+        url: 'https://blog.maxelbk.eu.org'
+      - logo: 'fab fa-github' # The font-awesome class name of the logo
+        text: '' # The logo text
+        url: 'https://github.com/maxelblack/java-easy-tutorial' # The url
+
+# --------------------
+# Sidebar Items
+# --------------------
+sidebar:
+  zh-CN: # Language
+    docs: # Type bname
+      level: 2 # 1 or 2
+      items:
+        # 1 level example:
+        - 开始:
+          - 概览 | /
+          - 前言 | preface.html
+          - 教程阅读说明 | reading.html
+          - 一般代码规范 | code-rules.html
+        - 环境配置:
+          - 编译工具 | environment/sdk.html
+          - 集成开发环境 (IDE) | environment/ide.html
+          - 构建工具 | environment/build-tools.html
+        - 主方法内流程:
+          - 'Hello, world | main/hello-world.html'
+          - 基本数据类型 | main/basic-types.html
+          - 控制台输入输出 | main/console-io.html
+          - 条件控制 | main/if.html
+          - 循环控制 | main/repeat.html
+          - 静态工具类 Math | main/math.html
+          - 异常处理初步 | main/exception.html
+        - 面向对象:
+          - 类和对象 | object/object.html
+          - 继承和重写 | object/extend.html
+          - 接口 | object/interface.html
+
+
+github:
+  repo: maxelblack/java-easy-tutorial
+  edit_on_github: true
