@@ -23,7 +23,7 @@ navbar:
         url: 'https://blog.maxelbk.eu.org'
       - logo: 'fab fa-github' # The font-awesome class name of the logo
         text: '' # The logo text
-        url: 'https://github.com/maxelblack/java-easy-tutorial' # The url
+        url: 'https://github.com/maxelblack/coffee-tutorial' # The url
 
 # --------------------
 # Sidebar Items
@@ -58,5 +58,5 @@ sidebar:
 
 
 github:
-  repo: maxelblack/java-easy-tutorial
+  repo: maxelblack/coffee-tutorial
   edit_on_github: true
