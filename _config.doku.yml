@@ -55,12 +55,6 @@ sidebar:
           - 类和对象 | object/object.html
           - 继承和重写 | object/extend.html
           - 接口 | object/interface.html
-        - 构建工具:
-          - 构建工具 | building/init.html
-        - Gradle:
-          - Gradle入门 | building/gradle/init.html
-        - Maven:
-          - Maven入门 | building/maven/init.html
 
 github:
   repo: maxelblack/coffee-tutorial
