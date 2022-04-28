@@ -36,7 +36,7 @@ Kotlin 是一个基于 JVM 的新时代语言，有着对 Java 几乎完美的�
 
 <br />
 
-*—— Maxel Black 写于 2022/04/27* （[博客原文](#)）
+*—— Maxel Black 写于 2022/04/27* （[博客原文](https://blog.maxelbk.eu.org/article/coffee-tutorial.html)）
 
 ----
 
