@@ -67,7 +67,7 @@ sidebar:
           - '基本文件操作 | file/file.html'
         - 项目构建:
           - '构建工具简介 | build/tools.html'
-          - 'Gradle项目结构 | build/structure.html'
+          - 'Gradle 项目结构 | build/structure.html'
 
 
 github:
