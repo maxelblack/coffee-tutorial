@@ -4,4 +4,5 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-  open-pull-requests-limit: 20
+  target-branch: "debug"
+  open-pull-requests-limit: 10
