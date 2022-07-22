@@ -35,26 +35,39 @@ sidebar:
       items:
         # 1 level example:
         - 开始:
-          - 概览 | /
-          - 前言 | preface.html
-          - 教程阅读说明 | reading.html
-          - 一般代码规范 | code-rules.html
+          - '概览 | /'
+          - '前言 | preface.html'
+          - '教程阅读说明 | reading.html'
+          - '一般代码规范 | code-rules.html'
         - 环境配置:
-          - 编译工具 | environment/sdk.html
-          - 集成开发环境 (IDE) | environment/ide.html
-          - 构建工具 | environment/build-tools.html
+          - '编译工具 | environment/sdk.html'
+          - '集成开发环境 (IDE) | environment/ide.html'
+          - '构建工具 | environment/build-tools.html'
         - 主方法内流程:
           - 'Hello, world | main/hello-world.html'
-          - 基本数据类型 | main/basic-types.html
-          - 控制台输入输出 | main/console-io.html
-          - 条件控制 | main/if.html
-          - 循环控制 | main/repeat.html
-          - 静态工具类 Math | main/math.html
-          - 异常处理初步 | main/exception.html
+          - '基本数据类型 | main/basic-types.html'
+          - '控制台输入输出 | main/console-io.html'
+          - '条件控制 | main/if.html'
+          - '循环控制 | main/repeat.html'
+          - '静态工具类 Math | main/math.html'
+          - '异常处理初步 | main/exception.html'
         - 面向对象:
-          - 类和对象 | object/object.html
-          - 继承和重写 | object/extend.html
-          - 接口 | object/interface.html
+          - '类和对象 | object/object.html'
+          - '类的组成 | object/member.html'
+          - '继承和重写 | object/extend.html'
+          - '接口和抽象 | object/interface.html'
+          - '类型操作 | object/types.html'
+          - '泛型类型 | object/generics.html'
+        - 标准库:
+          - '基本类型封装 | stdlib/basic-types.html'
+          - '字符串 | stdlib/string.html'
+          - '自定义异常处理 | stdlib/exception.html'
+          - '常用工具类 | stdlib/utils.html'
+        - 文件处理:
+          - '基本文件操作 | file/file.html'
+        - 项目构建:
+          - '构建工具简介 | build/tools.html'
+          - 'Gradle 项目结构 | build/structure.html'
 
 
 github:
